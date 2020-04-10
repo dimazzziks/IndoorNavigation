@@ -1,2 +1,2 @@
-# Indoor-Navigation
+# IndoorNavigation
 Indoor Navigation HSE Project
